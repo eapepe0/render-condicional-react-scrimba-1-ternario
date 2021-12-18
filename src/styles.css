@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap");
+
+body {
+  font-family: Poppins, sans-serif;
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+p {
+  font-weight: 300;
+}
+
+.btn {
+  background-color: white;
+  border: none;
+  color: black;
+  padding: 6px 10px;
+  font-size: 16px;
+  cursor: pointer;
+  font-size: 1.2rem;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: rgb(202, 39, 74);
+}
