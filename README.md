@@ -1,2 +1,2 @@
 # render-condicional-react-scrimba-1-ternario
-Created with CodeSandbox
+![captura](https://i.imgur.com/eEPMaSO.png)
